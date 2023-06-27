@@ -1,1 +1,1 @@
-# Maui_Adaptiv
+# .net MAUI responsive app design - FlexLayout
